@@ -42,6 +42,7 @@ const akash = {
 - 💬 &nbsp; Hit me up about **JavaScript** or **UI/UX** — I love talking about them
 - ⚡ &nbsp; Fun fact: I genuinely think I'm funny *(the jury's still out)*
 - 📫 &nbsp; Reach me at **sunarakash1122@gmail.com**
+- 🌎 &nbsp; Portfolio:https://akashsunar.com.np/
 
 ---
 
