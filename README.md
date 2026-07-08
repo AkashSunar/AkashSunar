@@ -26,9 +26,9 @@ A passionate Software Engineer crafting reliable and scalable web applications.
 const akash = {
   name:       "Akash Sunar",
   location:   "Nepal 🏔️",
-  role:       "Full Stack Developer (in the making)",
-  passions:   ["JavaScript", "UI/UX Design", "Building cool things"],
-  learning:   "Fullstack Software Development",
+  role:       "Software Engineer",
+  passions:   ["Programming","Building cool things"],
+  learning:   "Data Science,AI,ML,Blockchain",
   contact:    "sunarakash1122@gmail.com",
   funFact:    "I think I am funny. 😄"
 };
