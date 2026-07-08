@@ -25,7 +25,7 @@ A passionate Software Engineer crafting reliable and scalable web applications.
 ```javascript
 const akash = {
   name:       "Akash Sunar",
-  location:   "Nepal 🏔️",
+  location:   "Nepal",
   role:       "Software Engineer",
   passions:   ["Programming","Building cool things"],
   learning:   "Data Science,AI,ML,Blockchain",
